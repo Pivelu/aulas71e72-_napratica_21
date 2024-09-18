@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="@q-$.*[H;d?XnRXPE0Xg" x="0" y="0"></block><block type="device_forever" id="Cv}sfH^kRcH?3=bl1Yd}" x="205" y="0"></block><block type="device_button_event" id="8L!)+R0;I_gmn7A%82o~" x="140" y="109"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="R%;5vM~?6M!%Q|5F?fl)"><field name="LEDS">`
+        . . . . # 
+        . . . # . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="robotbit_servo" id="Iip`2LUS|.Xy$N8xqX#4"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="h.!u3JNH#k3{g^H[}fU7"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_show_leds" id="-4{MqlIB,q.j{t#dp*27"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="robotbit_servo" id="~Xu5?ov!*T!7T?JY+Ev{"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="WB.#C2Z]9}C;gJ#$f=fg"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_show_leds" id="n7qFXi=f.:ss9Z,k+NNz"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . # . 
+        . . . . #
+        `</field><next><block type="robotbit_servo" id="v`q$ufr**B$e!SUbXB:H"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="zjYr{3s6otPPQ5XEY.we"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_show_leds" id="wUnI0XcG[a_)*~x3{((^"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="robotbit_servo" id="]^DvQR2M.sufr`J]W|^@"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="f*7}G/*Wc98a|5-K4PFv"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_show_leds" id="zRH*eJ$/YL$GqvDtl]12"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # . . . 
+        # . . . .
+        `</field><next><block type="robotbit_servo" id="_}=f6YTU}KZS#^wrCs}+"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="cy0-mP9i+N]EUQ!(~ptp"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_show_leds" id="k,)|.#ab.P7KFHX{bMRU"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="robotbit_servo" id="_.}zGO9c*:~#)6U*JATE"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="jA;zr4g6wuML8!iqK[Hp"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">0</field></shadow></value><next><block type="device_show_leds" id="t?(@x[A*wl_0gz%#hztD"><field name="LEDS">`
+        # . . . . 
+        . # . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="robotbit_servo" id="F[Dy!yzDS-}:{_aeqzFd"><field name="index">robotbit.Servos.S1</field><value name="degree"><shadow type="math_number_minmax" id="5T)GGwu|jqTi9GJI{jt]"><mutation min="0" max="180" label="Degree" precision="0"></mutation><field name="SLIDER">0</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
